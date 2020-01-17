@@ -17,7 +17,7 @@
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
 
 ## Download and Installation
-
+ 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
 * Install via npm: `npm i startbootstrap-resume`
